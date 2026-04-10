@@ -155,4 +155,4 @@ GET    /api/v1/simulation/status   # Get simulation status
 
 ## 🔗 Related Projects
 
-- **Frontend**: [trader.pro-fe](https://github.com/Abh1noob/trader.pro-fe)
+- **Frontend**: [trader.pro-fe](https://github.com/ritikanairr/trader.pro)
