@@ -1,0 +1,9 @@
+breeze-connect
+Flask
+gunicorn
+pandas
+pymongo
+python-dotenv
+flask_cors
+fastapi
+uvicorn[standard]
